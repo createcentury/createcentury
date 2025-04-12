@@ -30,3 +30,4 @@ jobs:
           git add README.md
           git commit -m "Update quote" || echo "No changes to commit"
           git push
+# trigger workflow re-detection

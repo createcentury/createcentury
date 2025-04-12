@@ -3,7 +3,7 @@ import datetime
 import re
 
 quote_api = "https://api.quotable.io/random"
-res = requests.get(quote_api)
+res = requests.get(quote_api, verify=False)
 data = res.json()
 quote = f'"{data["content"]}" — {data["author"]}'
 

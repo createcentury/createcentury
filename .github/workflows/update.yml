@@ -2,8 +2,8 @@ name: Update README with quote
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 毎日0時（UTC）→ 日本時間 9時
-  workflow_dispatch:     # 手動実行も可能
+    - cron: '0 0 * * *'  # 毎日 0:00 UTC = 9:00 JST
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -32,3 +32,4 @@ jobs:
           git add README.md
           git commit -m "Update quote" || echo "No changes to commit"
           git push origin HEAD:main
+

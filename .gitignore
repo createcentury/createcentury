@@ -1,1 +1,1 @@
-echo ".secrets" >> .gitignore
+.secrets

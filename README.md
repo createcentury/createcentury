@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-04-13
-💬 "Only put off until tomorrow what you are willing to die having left undone." — Pablo Picasso
+🗓️ 2025-04-14
+💬 "You can't choose up sides on a round world." — Wayne Dyer
 <!--END_SECTION:quote-->

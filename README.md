@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-04-15
-💬 "There is only one corner of the universe you can be certain of improving, and that's your own self." — Aldous Huxley
+🗓️ 2025-04-16
+💬 "It has long been an axiom of mine that the little things are infinitely the most important." — Arthur Conan Doyle
 <!--END_SECTION:quote-->

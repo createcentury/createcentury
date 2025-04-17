@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-04-16
-💬 "It has long been an axiom of mine that the little things are infinitely the most important." — Arthur Conan Doyle
+🗓️ 2025-04-17
+💬 "Without some goals and some efforts to reach it, no man can live." — John Dewey
 <!--END_SECTION:quote-->

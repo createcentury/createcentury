@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-04-20
-💬 "The foolish man seeks happiness in the distance, the wise grows it under his feet." — James Oppenheim
+🗓️ 2025-04-21
+💬 "No man has a good enough memory to be a successful liar." — Abraham Lincoln
 <!--END_SECTION:quote-->

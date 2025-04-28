@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-04-27
-💬 "Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing." — Elie Wiesel
+🗓️ 2025-04-28
+💬 "We do not quit playing because we grow old, we grow old because we quit playing." — Oliver Wendell Holmes Jr.
 <!--END_SECTION:quote-->

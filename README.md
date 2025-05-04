@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-05-03
-💬 "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid." — Audre Lorde
+🗓️ 2025-05-04
+💬 "Love is the only force capable of transforming an enemy into a friend." — Martin Luther King Jr.
 <!--END_SECTION:quote-->

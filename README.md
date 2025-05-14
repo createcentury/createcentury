@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-05-13
-💬 "Do what you can. Want what you have. Be who you are." — Forrest Church
+🗓️ 2025-05-14
+💬 "Happiness resides not in possessions, and not in gold, happiness dwells in the soul." — Democritus
 <!--END_SECTION:quote-->

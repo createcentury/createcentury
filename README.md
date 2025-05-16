@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-05-15
-💬 "More often than not, anger is actually an indication of weakness rather than of strength." — Dalai Lama
+🗓️ 2025-05-16
+💬 "There is nothing so useless as doing efficiently that which should not be done at all." — Peter Drucker
 <!--END_SECTION:quote-->

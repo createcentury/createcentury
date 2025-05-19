@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-05-18
-💬 "Wisdom has its root in goodness, not goodness its root in wisdom." — Ralph Waldo Emerson
+🗓️ 2025-05-19
+💬 "Reason and free inquiry are the only effectual agents against error." — Thomas Jefferson
 <!--END_SECTION:quote-->

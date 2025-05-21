@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-05-20
-💬 "If you're changing the world, you're working on important things. You're excited to get up in the morning." — Larry Page
+🗓️ 2025-05-21
+💬 "I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex." — Kurt Vonnegut
 <!--END_SECTION:quote-->

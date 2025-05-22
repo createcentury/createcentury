@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-05-21
-💬 "I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex." — Kurt Vonnegut
+🗓️ 2025-05-22
+💬 "TV and the Internet are good because they keep stupid people from spending too much time out in public." — Douglas Coupland
 <!--END_SECTION:quote-->

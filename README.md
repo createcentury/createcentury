@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-06-06
-💬 "Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born." — Anaïs Nin
+🗓️ 2025-06-07
+💬 "There is no retirement for an artist, it's your way of living so there is no end to it." — Henry Moore
 <!--END_SECTION:quote-->

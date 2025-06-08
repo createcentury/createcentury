@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-06-07
-💬 "There is no retirement for an artist, it's your way of living so there is no end to it." — Henry Moore
+🗓️ 2025-06-08
+💬 "Time you enjoy wasting, was not wasted." — John Lennon
 <!--END_SECTION:quote-->

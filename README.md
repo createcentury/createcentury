@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-06-10
-💬 "Arriving at one point is the starting point to another." — John Dewey
+🗓️ 2025-06-11
+💬 "All this modern technology just makes people try to do everything at once." — Bill Watterson
 <!--END_SECTION:quote-->

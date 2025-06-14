@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-06-13
-💬 "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own." — Laozi
+🗓️ 2025-06-14
+💬 "All that I am, or hope to be, I owe to my angel mother." — Abraham Lincoln
 <!--END_SECTION:quote-->

@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-07-02
-💬 "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life." — Eckhart Tolle
+🗓️ 2025-07-03
+💬 "Wisdom has its root in goodness, not goodness its root in wisdom." — Ralph Waldo Emerson
 <!--END_SECTION:quote-->

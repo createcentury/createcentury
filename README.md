@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-07-09
-💬 "The more sand that has escaped from the hourglass of our life, the clearer we should see through it." — Jean-Paul Sartre
+🗓️ 2025-07-10
+💬 "He who is fixed to a star does not change his mind." — Leonardo da Vinci
 <!--END_SECTION:quote-->

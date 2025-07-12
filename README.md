@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-07-11
-💬 "First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination." — Napoleon Hill
+🗓️ 2025-07-12
+💬 "Don't turn away from possible futures before you're certain you don't have anything to learn from them." — Richard Bach
 <!--END_SECTION:quote-->

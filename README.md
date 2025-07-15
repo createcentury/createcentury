@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-07-14
-💬 "An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage." — Jack Welch
+🗓️ 2025-07-15
+💬 "The greatest remedy for anger is delay." — Seneca the Younger
 <!--END_SECTION:quote-->

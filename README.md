@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-07-27
-💬 "Many of life's failures are people who did not realize how close they were to success when they gave up." — Thomas Edison
+🗓️ 2025-07-28
+💬 "Knowing is not enough; we must apply!" — Johann Wolfgang von Goethe
 <!--END_SECTION:quote-->

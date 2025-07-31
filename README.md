@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-07-30
-💬 "Technology made large populations possible; large populations now make technology indispensable." — Joseph Wood Krutch
+🗓️ 2025-07-31
+💬 "Mistakes are always forgivable, if one has the courage to admit them." — Bruce Lee
 <!--END_SECTION:quote-->

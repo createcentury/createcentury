@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-08-02
-💬 "A friend is someone who gives you total freedom to be yourself." — Jim Morrison
+🗓️ 2025-08-03
+💬 "The beginning of knowledge is the discovery of something we do not understand." — Frank Herbert
 <!--END_SECTION:quote-->

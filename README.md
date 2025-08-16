@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-08-15
-💬 "Meditate … do not delay, lest you later regret it." — The Buddha
+🗓️ 2025-08-16
+💬 "It is not so important to know everything as to appreciate what we learn." — Hannah More
 <!--END_SECTION:quote-->

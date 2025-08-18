@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-08-17
-💬 "True friendship can afford true knowledge. It does not depend on darkness and ignorance." — Henry David Thoreau
+🗓️ 2025-08-18
+💬 "Gratitude is not only the greatest of virtues, but the parent of all the others." — Cicero
 <!--END_SECTION:quote-->

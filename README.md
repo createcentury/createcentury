@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-08-20
-💬 "A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool." — Joseph Roux
+🗓️ 2025-08-21
+💬 "Always bear in mind that your own resolution to succeed is more important than any one thing." — Abraham Lincoln
 <!--END_SECTION:quote-->

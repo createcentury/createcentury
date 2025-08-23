@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-08-22
-💬 "One should not hurt others if one loves oneself." — The Buddha
+🗓️ 2025-08-23
+💬 "You might well remember that nothing can bring you success but yourself." — Napoleon Hill
 <!--END_SECTION:quote-->

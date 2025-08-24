@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-08-23
-💬 "You might well remember that nothing can bring you success but yourself." — Napoleon Hill
+🗓️ 2025-08-24
+💬 "Do one thing every day that scares you." — Eleanor Roosevelt
 <!--END_SECTION:quote-->

@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-10-05
-💬 "To invent, you need a good imagination and a pile of junk." — Thomas Edison
+🗓️ 2025-10-06
+💬 "The sum of wisdom is that time is never lost that is devoted to work." — Ralph Waldo Emerson
 <!--END_SECTION:quote-->

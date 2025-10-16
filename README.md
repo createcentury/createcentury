@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-10-15
-💬 "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence." — George Washington
+🗓️ 2025-10-16
+💬 "In skating over thin ice our safety is in our speed." — Ralph Waldo Emerson
 <!--END_SECTION:quote-->

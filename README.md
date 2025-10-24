@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-10-23
-💬 "Always be a first-rate version of yourself, instead of a second-rate version of somebody else." — Judy Garland
+🗓️ 2025-10-24
+💬 "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds." — Will Durant
 <!--END_SECTION:quote-->

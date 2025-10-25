@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-10-24
-💬 "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds." — Will Durant
+🗓️ 2025-10-25
+💬 "The only way to prove that you're a good sport is to lose." — Ernie Banks
 <!--END_SECTION:quote-->

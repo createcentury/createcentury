@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-10-27
-💬 "Think as a wise man but communicate in the language of the people." — William Butler Yeats
+🗓️ 2025-10-28
+💬 "Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship." — Mother Angelica
 <!--END_SECTION:quote-->

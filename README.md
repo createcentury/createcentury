@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-10-30
-💬 "When I let go of what I am, I become what I might be." — Laozi
+🗓️ 2025-10-31
+💬 "Do good by stealth, and blush to find it fame." — Alexander Pope
 <!--END_SECTION:quote-->

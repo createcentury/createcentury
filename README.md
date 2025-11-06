@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-11-05
-💬 "All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise." — Anne Brontë
+🗓️ 2025-11-06
+💬 "Follow effective action with quiet reflection. From the quiet reflection will come even more effective action." — Peter Drucker
 <!--END_SECTION:quote-->

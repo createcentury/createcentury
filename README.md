@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-11-08
-💬 "Believe deep down in your heart that you're destined to do great things." — Joe Paterno
+🗓️ 2025-11-09
+💬 "Know, first, who you are, and then adorn yourself accordingly." — Epictetus
 <!--END_SECTION:quote-->

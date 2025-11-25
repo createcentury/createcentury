@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-11-24
-💬 "The less effort, the faster and more powerful you will be." — Bruce Lee
+🗓️ 2025-11-25
+💬 "The extreme limit of wisdom, that's what the public calls madness." — Jean Cocteau
 <!--END_SECTION:quote-->

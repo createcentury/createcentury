@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-12-01
-💬 "Excellence is not a skill. It is an attitude." — Ralph Marston
+🗓️ 2025-12-02
+💬 "Much wisdom often goes with fewer words." — Sophocles
 <!--END_SECTION:quote-->

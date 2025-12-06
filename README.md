@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-12-05
-💬 "A friend is, as it were, a second self." — Cicero
+🗓️ 2025-12-06
+💬 "The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge." — Daniel J. Boorstin
 <!--END_SECTION:quote-->

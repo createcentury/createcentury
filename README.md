@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-12-06
-💬 "The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge." — Daniel J. Boorstin
+🗓️ 2025-12-07
+💬 "The superior man blames himself. The inferior man blames others." — Don Shula
 <!--END_SECTION:quote-->

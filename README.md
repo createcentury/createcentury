@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-12-09
-💬 "It is the province of knowledge to speak, and it is the privilege of wisdom to listen." — Oliver Wendell Holmes Jr.
+🗓️ 2025-12-10
+💬 "If you surrender to the wind, you can ride it." — Toni Morrison
 <!--END_SECTION:quote-->

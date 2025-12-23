@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-12-22
-💬 "Nothing ever goes away until it has taught us what we need to know." — Pema Chödrön
+🗓️ 2025-12-23
+💬 "A goal is a dream with a deadline." — Napoleon Hill
 <!--END_SECTION:quote-->

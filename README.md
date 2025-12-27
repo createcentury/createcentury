@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2025-12-26
-💬 "Business, you know, may bring you money, but friendship hardly ever does." — Jane Austen
+🗓️ 2025-12-27
+💬 "I have no special talent. I am only passionately curious." — Albert Einstein
 <!--END_SECTION:quote-->

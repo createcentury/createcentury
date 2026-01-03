@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-01-02
-💬 "It always seems impossible until it's done." — Nelson Mandela
+🗓️ 2026-01-03
+💬 "Be kind whenever possible. It is always possible." — Dalai Lama
 <!--END_SECTION:quote-->

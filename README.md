@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-01-08
-💬 "The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion." — Dwight D. Eisenhower
+🗓️ 2026-01-09
+💬 "I am an optimist. It does not seem too much use being anything else." — Winston Churchill
 <!--END_SECTION:quote-->

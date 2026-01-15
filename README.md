@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-01-14
-💬 "Always be smarter than the people who hire you." — Lena Horne
+🗓️ 2026-01-15
+💬 "Freedom is the right to live as we wish." — Epictetus
 <!--END_SECTION:quote-->

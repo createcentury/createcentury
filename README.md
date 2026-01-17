@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-01-16
-💬 "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson
+🗓️ 2026-01-17
+💬 "The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense." — Thomas Edison
 <!--END_SECTION:quote-->

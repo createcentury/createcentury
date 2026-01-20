@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-01-19
-💬 "Happiness is a perfume you cannot pour on others without getting a few drops on yourself." — Ralph Waldo Emerson
+🗓️ 2026-01-20
+💬 "Beware lest you lose the substance by grasping at the shadow." — Aesop
 <!--END_SECTION:quote-->

@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-01-25
-💬 "The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion." — Dwight D. Eisenhower
+🗓️ 2026-01-26
+💬 "Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things." — The Buddha
 <!--END_SECTION:quote-->

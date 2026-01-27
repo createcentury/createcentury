@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-01-26
-💬 "Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things." — The Buddha
+🗓️ 2026-01-27
+💬 "The less effort, the faster and more powerful you will be." — Bruce Lee
 <!--END_SECTION:quote-->

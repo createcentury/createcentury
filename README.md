@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-01-28
-💬 "The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly." — Richard Bach
+🗓️ 2026-01-29
+💬 "Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present." — Joan Rivers
 <!--END_SECTION:quote-->

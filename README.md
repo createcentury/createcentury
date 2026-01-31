@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-01-30
-💬 "Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition." — Plotinus
+🗓️ 2026-01-31
+💬 "Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another." — Eustace Budgell
 <!--END_SECTION:quote-->

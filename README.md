@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-01-31
-💬 "Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another." — Eustace Budgell
+🗓️ 2026-02-01
+💬 "A goal without a plan is just a wish." — Larry Elder
 <!--END_SECTION:quote-->

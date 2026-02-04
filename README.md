@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-02-03
-💬 "Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark." — Henri-Frédéric Amiel
+🗓️ 2026-02-04
+💬 "Work while you have the light. You are responsible for the talent that has been entrusted to you." — Henri-Frédéric Amiel
 <!--END_SECTION:quote-->

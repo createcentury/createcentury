@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-02-11
-💬 "It is not a lack of love, but a lack of friendship that makes unhappy marriages." — Friedrich Nietzsche
+🗓️ 2026-02-12
+💬 "Marriage: A friendship recognized by the police." — Robert Louis Stevenson
 <!--END_SECTION:quote-->

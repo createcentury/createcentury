@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-02-23
-💬 "Beware of false knowledge; it is more dangerous than ignorance." — Bernard Shaw
+🗓️ 2026-02-24
+💬 "Work while you have the light. You are responsible for the talent that has been entrusted to you." — Henri-Frédéric Amiel
 <!--END_SECTION:quote-->

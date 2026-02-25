@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-02-24
-💬 "Work while you have the light. You are responsible for the talent that has been entrusted to you." — Henri-Frédéric Amiel
+🗓️ 2026-02-25
+💬 "Between saying and doing, many a pair of shoes is worn out." — Iris Murdoch
 <!--END_SECTION:quote-->

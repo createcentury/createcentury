@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-03-04
-💬 "A garden is always a series of losses set against a few triumphs, like life itself." — May Sarton
+🗓️ 2026-03-05
+💬 "Being entirely honest with oneself is a good exercise." — Sigmund Freud
 <!--END_SECTION:quote-->

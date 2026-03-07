@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-03-06
-💬 "Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together." — Mariella Frostrup
+🗓️ 2026-03-07
+💬 "Short words are best and the old words when short are best of all." — Winston Churchill
 <!--END_SECTION:quote-->

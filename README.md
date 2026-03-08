@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-03-07
-💬 "Short words are best and the old words when short are best of all." — Winston Churchill
+🗓️ 2026-03-08
+💬 "Be the change that you want to see in the world." — Mahatma Gandhi
 <!--END_SECTION:quote-->

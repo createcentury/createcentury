@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-03-12
-💬 "Those who are free of resentful thoughts surely find peace." — The Buddha
+🗓️ 2026-03-13
+💬 "But man is not made for defeat. A man can be destroyed but not defeated." — Ernest Hemingway
 <!--END_SECTION:quote-->

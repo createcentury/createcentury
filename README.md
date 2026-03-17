@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-03-16
-💬 "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace." — Dalai Lama
+🗓️ 2026-03-17
+💬 "An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men." — Thomas Fuller
 <!--END_SECTION:quote-->

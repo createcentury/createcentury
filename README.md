@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-03-23
-💬 "We could never learn to be brave and patient if there were only joy in the world." — Helen Keller
+🗓️ 2026-03-24
+💬 "Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots." — George Santayana
 <!--END_SECTION:quote-->

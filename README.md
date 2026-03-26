@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-03-25
-💬 "My friends are my estate." — Emily Dickinson
+🗓️ 2026-03-26
+💬 "Respect should be earned by actions, and not acquired by years." — Frank Lloyd Wright
 <!--END_SECTION:quote-->

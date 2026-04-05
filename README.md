@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-04-04
-💬 "Wherever a man turns he can find someone who needs him." — Albert Schweitzer
+🗓️ 2026-04-05
+💬 "If you smile when no one else is around, you really mean it." — Andy Rooney
 <!--END_SECTION:quote-->

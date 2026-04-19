@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-04-18
-💬 "To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing." — The Buddha
+🗓️ 2026-04-19
+💬 "A man cannot be said to succeed in this life who does not satisfy one friend." — Henry David Thoreau
 <!--END_SECTION:quote-->

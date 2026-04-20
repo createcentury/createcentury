@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-04-19
-💬 "A man cannot be said to succeed in this life who does not satisfy one friend." — Henry David Thoreau
+🗓️ 2026-04-20
+💬 "A short saying often contains much wisdom." — Sophocles
 <!--END_SECTION:quote-->

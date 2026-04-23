@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-04-22
-💬 "There is no friendship, no love, like that of the parent for the child." — Henry Ward Beecher
+🗓️ 2026-04-23
+💬 "Habit, if not resisted, soon becomes necessity." — Augustine of Hippo
 <!--END_SECTION:quote-->

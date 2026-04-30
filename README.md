@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-04-29
-💬 "The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard." — Henry David Thoreau
+🗓️ 2026-04-30
+💬 "Happiness does not come from having much, but from being attached to little." — Cheng Yen
 <!--END_SECTION:quote-->

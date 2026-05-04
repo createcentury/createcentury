@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-03
-💬 "I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can." — Bernard Shaw
+🗓️ 2026-05-04
+💬 "Let us always meet each other with smile, for the smile is the beginning of love." — Mother Teresa
 <!--END_SECTION:quote-->

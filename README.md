@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-06
-💬 "I never think of the future - it comes soon enough." — Albert Einstein
+🗓️ 2026-05-07
+💬 "Share your smile with the world. It's a symbol of friendship and peace." — Christie Brinkley
 <!--END_SECTION:quote-->

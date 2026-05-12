@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-11
-💬 "Divide each difficulty into as many parts as is feasible and necessary to resolve it." — René Descartes
+🗓️ 2026-05-12
+💬 "Keep silence for the most part, and speak only when you must, and then briefly." — Epictetus
 <!--END_SECTION:quote-->

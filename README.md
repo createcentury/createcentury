@@ -1,6 +1,6 @@
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-12
-💬 "Keep silence for the most part, and speak only when you must, and then briefly." — Epictetus
+🗓️ 2026-05-13
+💬 "Nothing is at last sacred but the integrity of your own mind." — Ralph Waldo Emerson
 <!--END_SECTION:quote-->

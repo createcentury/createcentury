@@ -42,6 +42,6 @@ Getting next-generation AI architectures to run natively, and fast, on Apple Sil
 ## 🗓️ 今日の名言
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-15
-💬 "True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances." — Daisaku Ikeda
+🗓️ 2026-05-16
+💬 "Life is just a chance to grow a soul." — A. Powell Davies
 <!--END_SECTION:quote-->

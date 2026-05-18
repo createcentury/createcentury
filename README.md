@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-17
-💬 "There is no failure except in no longer trying." — Elbert Hubbard
+🗓️ 2026-05-18
+💬 "Success is where preparation and opportunity meet." — Bobby Unser
 <!--END_SECTION:quote-->

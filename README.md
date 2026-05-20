@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-19
-💬 "You can always count on Americans to do the right thing - after they've tried everything else." — Winston Churchill
+🗓️ 2026-05-20
+💬 "To fly as fast as thought, you must begin by knowing that you have already arrived." — Richard Bach
 <!--END_SECTION:quote-->

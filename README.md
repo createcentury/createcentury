@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-20
-💬 "To fly as fast as thought, you must begin by knowing that you have already arrived." — Richard Bach
+🗓️ 2026-05-21
+💬 "However rare true love may be, it is less so than true friendship." — François de La Rochefoucauld
 <!--END_SECTION:quote-->

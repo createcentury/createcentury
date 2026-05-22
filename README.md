@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-21
-💬 "However rare true love may be, it is less so than true friendship." — François de La Rochefoucauld
+🗓️ 2026-05-22
+💬 "There is no great genius without some touch of madness." — Seneca the Younger
 <!--END_SECTION:quote-->

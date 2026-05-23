@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-22
-💬 "There is no great genius without some touch of madness." — Seneca the Younger
+🗓️ 2026-05-23
+💬 "It's not what happens to you, but how you react to it that matters." — Epictetus
 <!--END_SECTION:quote-->

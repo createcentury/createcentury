@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-24
-💬 "Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful." — John Wooden
+🗓️ 2026-05-25
+💬 "A man should look for what is, and not for what he thinks should be." — Albert Einstein
 <!--END_SECTION:quote-->

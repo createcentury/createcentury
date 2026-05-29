@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-28
-💬 "Intuition will tell the thinking mind where to look next." — Jonas Salk
+🗓️ 2026-05-29
+💬 "Never interrupt your enemy when he is making a mistake." — Napoleon
 <!--END_SECTION:quote-->

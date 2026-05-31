@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-05-30
-💬 "Sooner or later, those who win are those who think they can." — Richard Bach
+🗓️ 2026-05-31
+💬 "All human wisdom is summed up in two words; wait and hope." — Alexandre Dumas
 <!--END_SECTION:quote-->

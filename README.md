@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-01
-💬 "If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink." — Sophocles
+🗓️ 2026-06-02
+💬 "The greatest part of our happiness depends on our dispositions, not our circumstances." — Martha Washington
 <!--END_SECTION:quote-->

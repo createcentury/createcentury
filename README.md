@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-03
-💬 "Experience keeps a dear school, but fools will learn in no other." — Benjamin Franklin
+🗓️ 2026-06-04
+💬 "Habit, if not resisted, soon becomes necessity." — Augustine of Hippo
 <!--END_SECTION:quote-->

@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-04
-💬 "Habit, if not resisted, soon becomes necessity." — Augustine of Hippo
+🗓️ 2026-06-05
+💬 "First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination." — Napoleon Hill
 <!--END_SECTION:quote-->

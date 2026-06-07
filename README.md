@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-06
-💬 "Speak when you are angry, and you will make the best speech you will ever regret." — Ambrose Bierce
+🗓️ 2026-06-07
+💬 "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!" — Charlotte Perkins Gilman
 <!--END_SECTION:quote-->

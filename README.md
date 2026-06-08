@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-07
-💬 "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!" — Charlotte Perkins Gilman
+🗓️ 2026-06-08
+💬 "The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident." — Charles Lamb
 <!--END_SECTION:quote-->

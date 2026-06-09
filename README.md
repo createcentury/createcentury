@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-08
-💬 "The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident." — Charles Lamb
+🗓️ 2026-06-09
+💬 "The things that one most wants to do are the things that are probably most worth doing." — Winifred Holtby
 <!--END_SECTION:quote-->

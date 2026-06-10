@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-09
-💬 "The things that one most wants to do are the things that are probably most worth doing." — Winifred Holtby
+🗓️ 2026-06-10
+💬 "Life is what happens while you are making other plans." — John Lennon
 <!--END_SECTION:quote-->

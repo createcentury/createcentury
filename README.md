@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-11
-💬 "As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse." — The Buddha
+🗓️ 2026-06-12
+💬 "One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness." — The Buddha
 <!--END_SECTION:quote-->

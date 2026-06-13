@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-12
-💬 "One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness." — The Buddha
+🗓️ 2026-06-13
+💬 "A man should look for what is, and not for what he thinks should be." — Albert Einstein
 <!--END_SECTION:quote-->

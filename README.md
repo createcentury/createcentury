@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-14
-💬 "What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there." — The Buddha
+🗓️ 2026-06-15
+💬 "Without courage, wisdom bears no fruit." — Baltasar Gracián
 <!--END_SECTION:quote-->

@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-15
-💬 "Without courage, wisdom bears no fruit." — Baltasar Gracián
+🗓️ 2026-06-16
+💬 "You are important enough to ask and you are blessed enough to receive back." — Wayne Dyer
 <!--END_SECTION:quote-->

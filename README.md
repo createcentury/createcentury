@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-21
-💬 "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else." — Dalai Lama
+🗓️ 2026-06-22
+💬 "The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident." — Charles Lamb
 <!--END_SECTION:quote-->

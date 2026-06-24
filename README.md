@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-23
-💬 "People may doubt what you say, but they will believe what you do." — Lewis Cass
+🗓️ 2026-06-24
+💬 "If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem." — J. Paul Getty
 <!--END_SECTION:quote-->

@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-24
-💬 "If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem." — J. Paul Getty
+🗓️ 2026-06-25
+💬 "Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway." — Mary Kay Ash
 <!--END_SECTION:quote-->

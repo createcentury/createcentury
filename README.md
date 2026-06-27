@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-06-26
-💬 "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly." — Henri Bergson
+🗓️ 2026-06-27
+💬 "Every gift from a friend is a wish for your happiness." — Richard Bach
 <!--END_SECTION:quote-->

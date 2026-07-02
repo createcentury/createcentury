@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-01
-💬 "Ethics change with technology." — Larry Niven
+🗓️ 2026-07-02
+💬 "You don't play against opponents, you play against the game of basketball." — Bob Knight
 <!--END_SECTION:quote-->

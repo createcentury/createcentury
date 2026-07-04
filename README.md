@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-03
-💬 "Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime." — Laozi
+🗓️ 2026-07-04
+💬 "Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you." — Nathaniel Hawthorne
 <!--END_SECTION:quote-->

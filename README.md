@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-04
-💬 "Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you." — Nathaniel Hawthorne
+🗓️ 2026-07-05
+💬 "Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue." — Edith Wharton
 <!--END_SECTION:quote-->

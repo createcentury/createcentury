@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-05
-💬 "Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue." — Edith Wharton
+🗓️ 2026-07-06
+💬 "Don't ruin the present with the ruined past." — Ellen Gilchrist
 <!--END_SECTION:quote-->

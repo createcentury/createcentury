@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-07
-💬 "Silence is deep as Eternity; Speech is shallow as Time." — Thomas Carlyle
+🗓️ 2026-07-08
+💬 "Feeling and longing are the motive forces behind all human endeavor and human creations." — Albert Einstein
 <!--END_SECTION:quote-->

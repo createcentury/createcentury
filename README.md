@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-10
-💬 "He who conquers others is strong; He who conquers himself is mighty." — Laozi
+🗓️ 2026-07-11
+💬 "The real problem is not whether machines think but whether men do." — B. F. Skinner
 <!--END_SECTION:quote-->

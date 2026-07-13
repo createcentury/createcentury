@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-12
-💬 "The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge." — Daniel J. Boorstin
+🗓️ 2026-07-13
+💬 "Friendship multiplies the good of life and divides the evil." — Baltasar Gracián
 <!--END_SECTION:quote-->

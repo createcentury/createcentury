@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-13
-💬 "Friendship multiplies the good of life and divides the evil." — Baltasar Gracián
+🗓️ 2026-07-14
+💬 "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds." — Wayne Dyer
 <!--END_SECTION:quote-->

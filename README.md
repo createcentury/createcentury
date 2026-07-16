@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-15
-💬 "Everything you are against weakens you. Everything you are for empowers you." — Wayne Dyer
+🗓️ 2026-07-16
+💬 "Wisdom is the power to put our time and our knowledge to the proper use." — Thomas J. Watson
 <!--END_SECTION:quote-->

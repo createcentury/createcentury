@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-17
-💬 "Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?" — Richard Bach
+🗓️ 2026-07-18
+💬 "We are wiser than we know." — Ralph Waldo Emerson
 <!--END_SECTION:quote-->

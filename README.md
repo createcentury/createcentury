@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-21
-💬 "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world." — Archimedes
+🗓️ 2026-07-22
+💬 "Mistakes are always forgivable, if one has the courage to admit them." — Bruce Lee
 <!--END_SECTION:quote-->

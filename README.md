@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-22
-💬 "Mistakes are always forgivable, if one has the courage to admit them." — Bruce Lee
+🗓️ 2026-07-23
+💬 "Technology… the knack of so arranging the world that we don't have to experience it." — Max Frisch
 <!--END_SECTION:quote-->

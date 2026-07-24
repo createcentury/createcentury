@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-23
-💬 "Technology… the knack of so arranging the world that we don't have to experience it." — Max Frisch
+🗓️ 2026-07-24
+💬 "Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech." — Benjamin Franklin
 <!--END_SECTION:quote-->

@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-26
-💬 "I'm not afraid of storms, for I'm learning how to sail my ship." — Louisa May Alcott
+🗓️ 2026-07-27
+💬 "Action is the foundational key to all success." — Pablo Picasso
 <!--END_SECTION:quote-->

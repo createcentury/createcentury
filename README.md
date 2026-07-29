@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-28
-💬 "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life." — Eckhart Tolle
+🗓️ 2026-07-29
+💬 "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice." — Wayne Dyer
 <!--END_SECTION:quote-->

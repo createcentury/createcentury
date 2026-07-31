@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-30
-💬 "Only I can change my life. No one can do it for me." — Carol Burnett
+🗓️ 2026-07-31
+💬 "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence." — Frederick Douglass
 <!--END_SECTION:quote-->

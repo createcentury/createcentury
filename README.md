@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-07-31
-💬 "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence." — Frederick Douglass
+🗓️ 2026-08-01
+💬 "There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world." — Robert Louis Stevenson
 <!--END_SECTION:quote-->

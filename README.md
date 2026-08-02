@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-08-01
-💬 "There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world." — Robert Louis Stevenson
+🗓️ 2026-08-02
+💬 "So much technology, so little talent." — Vernor Vinge
 <!--END_SECTION:quote-->

@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-08-03
-💬 "Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things." — Woody Allen
+🗓️ 2026-08-04
+💬 "Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things." — The Buddha
 <!--END_SECTION:quote-->

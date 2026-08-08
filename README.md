@@ -8,6 +8,6 @@ Interested in low-level optimization for AI on Apple Silicon. Currently writing 
 - [Blog](https://createcentury.github.io/blog) · [LinkedIn](https://www.linkedin.com/in/fukuda-soki/)
 
 <!--START_SECTION:quote-->
-🗓️ 2026-08-07
-💬 "The friendship that can cease has never been real." — Jerome
+🗓️ 2026-08-08
+💬 "To be happy is to be able to become aware of oneself without fright." — Walter Benjamin
 <!--END_SECTION:quote-->
